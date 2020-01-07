@@ -13,7 +13,7 @@ A Galvanize Capstone Project by Justin Turner that uses Python, Statistics and M
 ## Exploratory Insights - Airline and Airport Rankings by Ontime Arrivals and Departures.
   * Which airlines have the worst record? Our findings:
 
-![Average Arrival Delay by Airline](/images/Average_Arrival_Delay_by_Airline.png)
+![Average Arrival Delay by Airline](/images/Average%Arrival%Delay%by%Airline.png)
 
 
 
