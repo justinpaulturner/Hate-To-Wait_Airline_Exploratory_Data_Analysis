@@ -13,7 +13,16 @@ A Galvanize Capstone Project by Justin Turner that uses Python, Statistics and M
 ## Exploratory Insights - Airline and Airport Rankings by Ontime Arrivals and Departures.
   * Which airlines have the worst record? Our findings:
 
-![Average Arrival Delay by Airline](/images/Average%20Arrival%20Delay%20by%20Airline.png)
+![Average Arrival Delay by Airline](/images/Average_Arrival_Delay_by_Airline.png)
+
+  * Which airports have the best records?
+
+![Average Departure Delay by Airport](/images/Average_Departure_Delay_by_Airport.png)
+  * Wow, that's too much data. Let's break it down by top 30 and bottom 30 airports. Negative delays mean the flights are early!
+
+![Top 30 Departure Delay by Airport](/images/Top_30_Average_Departure_Delay_by_Airport.png)
+
+![Bottom 30 Departure Delay by Airport](/images/Bottom_30_Average_Departure_Delay_by_Airport.png)
 
 
 
