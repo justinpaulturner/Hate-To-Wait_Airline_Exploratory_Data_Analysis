@@ -24,6 +24,10 @@ A Galvanize Capstone Project by Justin Turner that uses Python, Statistics and M
 
 ![Bottom 30 Departure Delay by Airport](/images/Bottom_30_Average_Departure_Delay_by_Airport.png)
 
+  * Was that first graph misleading? Let's look at the median delay by airport, not the mean. 
+
+![Average Departure Delay by Airport](/images/Median_Departure_Delay_by_Airport.png)
+
   * What is the best day of the week to fly on? 
 
 ![Average Arrival Delay by Day](/images/Average_Arrival_Delay_by_Day.png)
